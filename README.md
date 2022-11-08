@@ -6,7 +6,7 @@ html + css + js \
 React \
 Ant Design \
 Umi \
-Ant Design Pro \
+Ant Design Pro
 
 ## 后端
 java \
@@ -16,4 +16,4 @@ MyBatis \
 MyBatis-plus \
 Springboot \
 junit \
-mysql \
+mysql
