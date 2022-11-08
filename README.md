@@ -2,7 +2,7 @@
 用户中心
 
 ## 前端
-html + css + js \\
+html + css + js \
 React
 Ant Design
 Umi
